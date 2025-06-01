@@ -169,6 +169,14 @@ body {
   margin-left: 4px;
 }
 
+
+#Pt{
+text-align: center;
+  color: #ad8848;
+  margin-top: 40px;
+  padding-top: 20px;
+}
+
 .container-proyecto {
   width: 70%;
   background: #fff8ee40;
@@ -179,6 +187,7 @@ body {
   margin-top: 65px;
   margin-bottom: 50px;
 }
+
 
 
 .container-proyecto h2 {
@@ -242,6 +251,7 @@ body {
   display: flex;
   flex-direction: column;
   margin: auto;
+  margin-top: 50px;
   background: #fff8ee40;
   box-shadow: 1px 3px 4px aliceblue;
   border-radius: 25px;
